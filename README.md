@@ -1,10 +1,14 @@
 Movie Recommendation System
+
+
 This is a machine learning-powered web application that provides personalized movie recommendations based on user preferences and viewing history. The system leverages collaborative filtering/content-based filtering models trained on movie datasets.
 
-Try the live app here: https://yourmovierecapp.streamlit.app/
+Try the live app here: https://your-movies.streamlit.app/
+
 GitHub repository: https://github.com/Ankita175/movie-recommendation-system
 
 Features
+
 Interactive interface with Streamlit for easy movie search and recommendations.
 
 Personalized movie suggestions based on user input or past ratings.
@@ -14,6 +18,7 @@ Ability to explore popular movies, genres, and user ratings.
 Model and necessary preprocessing objects loaded from saved files.
 
 Technologies Used
+
 Python 3.x
 
 Streamlit for building the interactive web app
@@ -29,7 +34,9 @@ Clone the repository:
 
 bash
 git clone https://github.com/Ankita175/movie-recommendation-system.git
+
 cd movie-recommendation-system
+
 Install dependencies:
 
 bash
@@ -46,6 +53,7 @@ Enter preferences, genres, or rate movies to get personalized recommendations.
 Explore recommended movies with additional details such as synopsis and ratings.
 
 Files
+
 app.py: Main Streamlit application code.
 
 Model and preprocessing pickle files (e.g., trained recommendation model).
@@ -53,7 +61,9 @@ Model and preprocessing pickle files (e.g., trained recommendation model).
 requirements.txt: Required Python packages.
 
 Contributing
+
 Contributions and suggestions are welcome—feel free to fork and create pull requests.
 
 License
+
 This project is licensed under the Apache 2.0 License.
